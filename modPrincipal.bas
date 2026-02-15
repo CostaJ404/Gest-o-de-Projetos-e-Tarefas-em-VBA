@@ -1,10 +1,4 @@
 Attribute VB_Name = "modPrincipal"
-' ========================================
-' SISTEMA DE GESTÃO DE PROJETOS E TAREFAS
-' Autor: [Seu Nome]
-' Data: Fevereiro 2026
-' Versão: 1.0
-' ========================================
 
 Option Explicit
 
