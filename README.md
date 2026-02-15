@@ -254,75 +254,18 @@ ExportarDashboardPDF
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ---
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
+**João Vítro Costa Sant'Ana**
 
-- LinkedIn: [Seu LinkedIn]
-- GitHub: [Seu GitHub]
-- Email: [Seu Email]
-
----
-
-## 🤝 Contribuições
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para:
-
-1. Fork o projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abrir um Pull Request
+- LinkedIn:
+- GitHub: https://github.com/CostaJ404
+- Email: jvinsef360@gmail.com
 
 ---
 
-## 📚 Recursos Adicionais
-
-- [Guia Completo de Implementação](GUIA_IMPLEMENTACAO.md)
-- [Documentação VBA Microsoft](https://docs.microsoft.com/pt-br/office/vba/api/overview/excel)
-- [Boas Práticas VBA](https://www.excel-pratique.com/en/vba/best-practices.php)
-
----
-
-## ⭐ Agradecimentos
-
-- Comunidade VBA por todo o conhecimento compartilhado
-- Stack Overflow pelas soluções e discussões
-- Microsoft pela documentação detalhada
-
----
-
-## 📞 Suporte
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para:
-
-- Abrir uma [Issue](https://github.com/seuusuario/seuprojeto/issues)
-- Enviar um e-mail
-- Conectar-se no LinkedIn
-
----
-
-**⚡ Desenvolvido com dedicação para demonstrar excelência em VBA e automação Excel**
-
----
-
-### 🎯 Por que este projeto é ideal para portfólios?
-
-1. **Demonstra Competência Técnica**: Mostra domínio de VBA e Excel avançado
-2. **Resolve Problemas Reais**: Aplicável em diversos contextos corporativos
-3. **Código Profissional**: Seguindo padrões e boas práticas da indústria
-4. **Documentação Completa**: Facilitando compreensão e manutenção
-5. **Interface Amigável**: Demonstrando preocupação com UX/UI
-6. **Escalável**: Base sólida para expansões futuras
-
----
-
-**Última atualização**: Fevereiro 2026
-
-**Versão**: 1.0
-
-**Status**: ✅ Projeto Completo e Funcional
+**⚡ Desenvolvido para portfólio**
